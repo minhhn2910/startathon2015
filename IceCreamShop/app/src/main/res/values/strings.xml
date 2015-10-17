@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">creamshop</string>
+    <string name="action_settings">Check Your Account</string>
+    <string name="title_activity_order">Place Order</string>
+    <string name="title_activity_confirm_order">Confirm Order</string>
+    <string name="title_activity_survey">Survey</string>
+    <string name="title_activity_after_surver">Account Info</string>
+    <string name="title_activity_customize">Customize your cake</string>
+    <string name="title_activity_after_order">Account Info</string>
+    <string name="title_activity_scan_qr">Scan QR Code</string>
+</resources>
